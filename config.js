@@ -2,7 +2,7 @@ const { ActivityType } = require('discord.js');
 
 module.exports = {
   ownerId: '1004206704994566164',
-  status: {
+  status: {mongodb+srv:garajohn01@gmail.com/?retryWites=true&w=majority
     rotateDefault: [
       { name: 'Netflix', type: ActivityType.Watching },
       { name: 'GTA VI', type: ActivityType.Playing },
